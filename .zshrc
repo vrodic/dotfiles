@@ -1,0 +1,1 @@
+export PATH="/opt/homebrew/Cellar/llvm/19.1.4/bin:/opt/homebrew/bin:$PATH"
